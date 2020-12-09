@@ -9,3 +9,14 @@ filename: index
 # We are group D
 
 We love watching films online!
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+  </tr>
+  <tr>
+    <td><img src="homeiimages/hula_loop_octodex03.gif" width=270 height=480></td>
+    <td><img src="homeimages/mona-lovelace.jpg" width=270 height=480></td>
+  </tr>
+ </table>
