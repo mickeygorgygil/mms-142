@@ -12,8 +12,8 @@ We love watching films online!
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
+    <td> <h1 style="text-align:center"> Mickey G. </h1> <br> Hello! </td>
+     <td> Holiday Mention </td>
   </tr>
   <tr>
     <td><img src="homeimages/hula_loop_octodex03.gif" width=480 height=480></td>
